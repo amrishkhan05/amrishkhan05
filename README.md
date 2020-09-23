@@ -1,4 +1,38 @@
-### Hi there 👋
+### Hi there I'm Amrishkhan👋
+
+```ts
+export class Info {
+
+  name: string = 'Amrishkhan'
+  age: number = 26
+  nationality: string[] = ['Indian']
+  languages: string[] = [ 'English', 'Tamil','Malayalam']
+  occupation: string = 'Full Stack Developer'
+  freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
+
+}
+
+export class Programming {
+
+  languages: string[] = ['TypeScript', 'JavaScript']
+  stylesheets: string[] = ['CSS', 'SCSS']
+  frameworks: string[] = ['Angular', 'React']
+  query language: string[] = ['GraphQL']
+  runtimes: string[] = ['Node']
+  databases: string[] = ['MySQL','Mongo']
+  learning: string[] = ['React','GraphQL', 'Angular']
+
+}
+
+export class Social {
+
+  linkedin: string = 'https://www.linkedin.com/in/amrishkhan/'
+  github: string = 'amrishkhan05'
+  instagram: string = '@aka_batman'
+
+}
+```
+
 
 <!--
 **amrishkhan05/amrishkhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
