@@ -1,4 +1,7 @@
+
+
 ### Hi there I'm Amrishkhan👋
+
 
 
 ```ts
@@ -36,6 +39,8 @@ export class Social {
 
 # Visitors
 ![Profile views counter](https://profile-counter.glitch.me/amrishkha05/count.svg)
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <!--
 
 
