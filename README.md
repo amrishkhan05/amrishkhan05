@@ -1,5 +1,6 @@
 ### Hi there I'm Amrishkhan👋
 
+
 ```ts
 export class Info {
 
@@ -33,8 +34,10 @@ export class Social {
 }
 ```
 
-<!--
 # Visitors
+![Profile views counter](https://profile-counter.glitch.me/amrishkha05/count.svg)
+<!--
+
 
 [![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 
