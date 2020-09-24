@@ -32,11 +32,13 @@ export class Social {
 
 }
 ```
+
+<!--
 # Visitors
 
 [![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 
-<!--
+
 **amrishkhan05/amrishkhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
