@@ -8,7 +8,7 @@
 export class Info {
 
   name: string = 'Amrishkhan'
-  age: number = 26
+  age: number = 28
   nationality: string[] = ['Indian']
   languages: string[] = [ 'English', 'Tamil','Malayalam']
   occupation: string = 'Full Stack Developer'
