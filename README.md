@@ -21,9 +21,9 @@ export class Programming {
   languages: string[] = ['TypeScript', 'JavaScript']
   stylesheets: string[] = ['CSS', 'SCSS']
   frameworks: string[] = ['Angular', 'React']
-  query language: string[] = ['GraphQL']
+  query language: string[] = ['GraphQL','SQL']
   runtimes: string[] = ['Node']
-  databases: string[] = ['MySQL','Mongo']
+  databases: string[] = ['MSSQL','Mongo']
   learning: string[] = ['React','GraphQL', 'Angular']
 
 }
