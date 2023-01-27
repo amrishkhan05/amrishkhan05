@@ -1,11 +1,14 @@
 
 
-### Hi there I'm Amrishkhan👋
+<h1 align="center">Hi 👋, I'm Amrishkhan</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -27,7 +30,7 @@
 
 ---
 
-###  Stats:
+###  Git Stat :
 <div align="center">
 
   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amrishkhan05&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727)
@@ -35,11 +38,14 @@
   <br>
 </div>
 
-## Packages Released
-[![dependency - sql-select-query-generator](https://img.shields.io/badge/npm-sql--select--query--generator-blue?logo=npm&logoColor=white)](https://www.npmjs.com/package/sql-select-query-generator)
+## Packages Released :
+[![dependency - sql-select-query-generator](https://img.shields.io/badge/npm-sql--select--query--generator-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/sql-select-query-generator)
+
+<!---
 ## 🚀 About Me
 
 ```ts
+<---
 export class Info {
 
   name: string = 'Amrishkhan'
@@ -48,7 +54,6 @@ export class Info {
   languages: string[] = [ 'English', 'Tamil','Malayalam']
   occupation: string = 'Full Stack Developer'
 }
-
 export class Programming {
 
   languages: string[] = ['TypeScript', 'JavaScript']
@@ -69,3 +74,4 @@ export class Social {
 
 }
 ```
+--->
