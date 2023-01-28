@@ -1,7 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Amrishkhan</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=2000&color=188AF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/amrishkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
