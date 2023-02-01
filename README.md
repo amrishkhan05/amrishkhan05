@@ -51,37 +51,14 @@
 ## Packages Released :
 [![dependency - sql-select-query-generator](https://img.shields.io/badge/npm-sql--select--query--generator-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/sql-select-query-generator)
 
-<!---
-## 🚀 About Me
+
+## 🚀 Contact Me
 
 ```ts
-<---
-export class Info {
-
-  name: string = 'Amrishkhan'
-  age: number = 28
-  nationality: string[] = ['Indian']
-  languages: string[] = [ 'English', 'Tamil','Malayalam']
-  occupation: string = 'Full Stack Developer'
-}
-export class Programming {
-
-  languages: string[] = ['TypeScript', 'JavaScript']
-  stylesheets: string[] = ['CSS', 'SCSS']
-  frameworks: string[] = ['Angular', 'React']
-  query language: string[] = ['GraphQL','SQL']
-  runtimes: string[] = ['Node']
-  databases: string[] = ['MSSQL','Mongo']
-  learning: string[] = ['React','GraphQL', 'Angular']
-
-}
-
 export class Social {
-
   linkedin: string = 'https://www.linkedin.com/in/amrishkhan/'
   github: string = 'amrishkhan05'
   instagram: string = '@aka_batman'
-
 }
 ```
---->
+
