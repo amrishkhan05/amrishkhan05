@@ -58,7 +58,7 @@
 export class Social {
   linkedin: string = 'https://www.linkedin.com/in/amrishkhan/'
   github: string = 'amrishkhan05'
-  instagram: string = '@aka_batman'
+  instagram: string = '@amrishkhan_sheik'
 }
 ```
 
