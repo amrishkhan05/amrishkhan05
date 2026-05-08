@@ -17,89 +17,66 @@
   </a>
 </p>
 
+<div align="center">
+  <sub>Engineering systems for product teams, developer workflows, APIs, and reliable releases.</sub>
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>10+ years</strong><br /><sub>Engineering delivery</sub></td>
+    <td width="25%" align="center"><strong>95%+ coverage</strong><br /><sub>Release quality gates</sub></td>
+    <td width="25%" align="center"><strong>Aviation + enterprise</strong><br /><sub>Production systems</sub></td>
+    <td width="25%" align="center"><strong>Aruvix</strong><br /><sub>Developer tool creator</sub></td>
+  </tr>
+</table>
+
 ## About
 
 I build dependable web platforms, backend systems, and developer tools. My work is shaped by release quality, maintainability, and measurable product value.
 
 I specialize in frontend and backend architecture, API design, microservices, payment integrations, database engineering, and delivery leadership. I enjoy building reliable systems with strong developer standards, high test coverage, and practical business impact.
 
-## Career Snapshot
+## What I Build
 
-- **10+ years** of engineering experience across aviation, real estate, and enterprise products.
-- **Secure API systems** with payment gateways, webhook-first reconciliation, and production-grade reliability.
-- **Full-stack delivery leadership** across Angular, React, Vue, Next.js, Node.js, Express, and NestJS.
-- **Creator of Aruvix**, a private browser workspace for everyday developer utilities.
+| Product engineering | Backend systems | Developer tooling |
+| --- | --- | --- |
+| Customer journeys, admin operations, frontend architecture, reusable modules | Secure APIs, microservices, payment workflows, webhook reconciliation | Aruvix, SQL generation utilities, JSON/API/debugging workflows |
 
-## Career Highlights
+## Selected Wins
 
-- Built and maintained passenger check-in modules with Angular and NestJS for a major airline.
-- Integrated Magnati and Network International with robust webhook-based reconciliation flows.
-- Designed service decomposition strategies for scalable microservices.
-- Established a 95%+ coverage quality gate with CI automation to prevent regressions.
-- Managed Linux server deployments, monitoring, and issue resolution for critical live systems.
-- Published `sql-select-query-generator` to accelerate dynamic SQL generation from JSON configs.
+| Area | Impact |
+| --- | --- |
+| Airline systems | Built and maintained passenger check-in modules, seat mapping, and ancillaries with Angular and NestJS. |
+| Payments | Integrated Magnati and Network International with robust webhook-based reconciliation flows. |
+| Architecture | Designed scalable microservice boundaries and reduced frontend orchestration complexity through middleware. |
+| Quality | Established a 95%+ test coverage quality gate with CI automation to prevent regressions. |
+| Operations | Managed Linux server deployments, monitoring, and production issue resolution. |
+| Open source | Published `sql-select-query-generator` to accelerate dynamic SQL generation from JSON configs. |
 
-### Aruvix
+## Aruvix
 
 Aruvix is a private developer workspace for formatting JSON, visualizing structures, sending API requests, comparing payloads, running quick dev utilities, and converting data without leaving the browser.
 
 I built Aruvix because I kept switching between tabs just to format JSON, inspect a request, or diff two payloads. The product brings those everyday tools into one private, no-sign-up browser workspace built by a developer, for developers.
 
-**What it helps with:**
+<table>
+  <tr>
+    <td><strong>Format</strong><br />JSON formatting, validation, and visual inspection.</td>
+    <td><strong>Inspect</strong><br />API request checks and response review.</td>
+    <td><strong>Compare</strong><br />Diff payloads, configs, code snippets, and snapshots.</td>
+  </tr>
+  <tr>
+    <td><strong>Convert</strong><br />Prepare data for APIs, docs, tickets, and tests.</td>
+    <td><strong>Refine</strong><br />Frontend helpers for CSS, SVG, and code translation.</td>
+    <td><strong>Test</strong><br />QA helpers for sample data, assertions, and bug reports.</td>
+  </tr>
+</table>
 
-- JSON formatting, validation, and visual inspection.
-- API request checks and response inspection.
-- Diffing payloads, configs, code snippets, and data snapshots.
-- Data conversion for APIs, docs, tickets, and test cases.
-- Frontend utilities including CSS helpers, SVG optimization, and code translation.
-- QA utilities for sample data, API assertions, bug reports, and test cases.
-
-**Product principles:**
-
-- Private by design: core formatting, validation, search, comparison, and conversion work happens locally in the browser.
-- No sign-up required: open the workspace and use the tools immediately.
-- One unified experience: format, visualize, compare, convert, and inspect data without jumping between unrelated tools.
-- Developer focused: fast workflows, readable output, keyboard-friendly actions, and practical debugging tasks.
+> Private by design. No sign-up required. One unified workspace for the daily tools developers reach for while debugging APIs and structured data.
 
 [Explore Aruvix](https://amrishkhan.dev/aruvix)
-
-## Professional Experience
-
-### Techcarrot FZ LLC, Dubai
-
-**Technology Lead Analyst Backend** · Aug 2022 - Present
-
-- Built backend platforms from scratch and delivered complete admin operations in Next.js.
-- Integrated Magnati and Network International with webhook-first reconciliation flows.
-- Shipped airline check-in modules, seat mapping, and ancillaries with 95%+ test coverage.
-- Stack: NestJS, Next.js, microservices, payment gateways.
-
-### MSys Technologies, Bangalore
-
-**Lead Engineer, Full Stack Developer** · May 2021 - Aug 2022
-
-- Owned delivery lifecycle end-to-end, from requirement workshops to production handover.
-- Built performant Node.js backends and modern Next.js frontends with standardized engineering workflows.
-- Created and enforced coding standards that reduced regressions and improved release confidence.
-- Stack: Node.js, Next.js, SQL, engineering standards.
-
-### Full Potential Solutions, Chennai
-
-**Senior Software Engineer** · Jul 2019 - May 2021
-
-- Built GraphQL middleware on AWS AppSync, Amplify, and Lambda to reduce frontend orchestration complexity.
-- Delivered product features such as multi-recording audio playlists and reporting modules.
-- Supported multi-project execution with staggered deployment timelines across teams.
-- Stack: GraphQL, AWS, frontend architecture, reporting.
-
-### Cognizant Technology Solutions, Chennai
-
-**Programmer Analyst** · Aug 2016 - Jul 2019
-
-- Developed dynamic web modules using Angular, PrimeNG, Node.js, and MongoDB.
-- Implemented reusable directives, components, and keyboard-first UX enhancements.
-- Created cross-project modules that accelerated implementation for multiple teams.
-- Stack: Angular, Node.js, MongoDB, reusable components.
 
 ## Tech Writing
 
@@ -122,21 +99,30 @@ Generates dynamic SQL SELECT queries from JSON configuration to speed up backend
 
 ## Core Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-111111?style=flat-square&logo=vuedotjs" alt="Vue" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs" alt="NestJS" />
+  <img src="https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws" alt="AWS" />
+</p>
+
 **Frontend:** JavaScript, TypeScript, Angular, React, Vue.js, Next.js, HTML, CSS, Material UI, Bootstrap  
 **Backend:** Node.js, Express, NestJS, REST APIs, GraphQL, microservices  
 **Data:** MongoDB, MySQL, PostgreSQL, Microsoft SQL Server  
 **Cloud and DevOps:** AWS, Nginx, Linux deployments, CI quality gates  
 **Engineering:** API design, payment gateways, test coverage, release ownership, reusable components
 
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrishkhan05&show_icons=true&hide_border=true&theme=transparent" alt="Amrishkhan GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrishkhan05&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-</p>
+<details>
+  <summary><strong>Engineering style</strong></summary>
+  <br />
+  I prefer clear contracts, maintainable boundaries, measurable release quality, practical automation, and simple tools that reduce repeated developer effort.
+</details>
 
 ## Connect
 
