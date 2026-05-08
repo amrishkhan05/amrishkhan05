@@ -23,14 +23,17 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>10+ years</strong><br /><sub>Engineering delivery</sub></td>
-    <td width="25%" align="center"><strong>95%+ coverage</strong><br /><sub>Release quality gates</sub></td>
-    <td width="25%" align="center"><strong>Aviation + enterprise</strong><br /><sub>Production systems</sub></td>
-    <td width="25%" align="center"><strong>Aruvix</strong><br /><sub>Developer tool creator</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <strong>10+ years</strong>&nbsp;&nbsp;&nbsp;
+  <strong>95%+ coverage</strong>&nbsp;&nbsp;&nbsp;
+  <strong>Aviation + enterprise</strong>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.aruvix.com/"><strong>Aruvix</strong></a>
+  <br />
+  <sub>Engineering delivery</sub>&nbsp;&nbsp;&nbsp;
+  <sub>Release quality gates</sub>&nbsp;&nbsp;&nbsp;
+  <sub>Production systems</sub>&nbsp;&nbsp;&nbsp;
+  <sub>Developer tool creator</sub>
+</p>
 
 ## About
 
@@ -100,29 +103,39 @@ Generates dynamic SQL SELECT queries from JSON configuration to speed up backend
 ## Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Vue-111111?style=flat-square&logo=vuedotjs" alt="Vue" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-111111?style=flat-square&logo=nestjs" alt="NestJS" />
-  <img src="https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="42" height="42" />
 </p>
-
-**Frontend:** JavaScript, TypeScript, Angular, React, Vue.js, Next.js, HTML, CSS, Material UI, Bootstrap  
-**Backend:** Node.js, Express, NestJS, REST APIs, GraphQL, microservices  
-**Data:** MongoDB, MySQL, PostgreSQL, Microsoft SQL Server  
-**Cloud and DevOps:** AWS, Nginx, Linux deployments, CI quality gates  
-**Engineering:** API design, payment gateways, test coverage, release ownership, reusable components
 
 <details>
   <summary><strong>Engineering style</strong></summary>
   <br />
   I prefer clear contracts, maintainable boundaries, measurable release quality, practical automation, and simple tools that reduce repeated developer effort.
 </details>
+
+## Git Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amrishkhan05&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="GitHub Streak" />
+</p>
 
 ## Connect
 
