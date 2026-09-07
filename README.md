@@ -1,8 +1,11 @@
 <h1 align="center">Amrishkhan Sheik Abdullah</h1>
 
 <p align="center">
-  <strong>Technical Lead & Full Stack Engineer</strong><br />
-  Dubai, UAE · Product-minded engineering lead · Creator of Aruvix
+  <strong>Technology Lead | 10+ Years | Microservices Architecture | Cloud-Native Systems | API Orchestration | Payment Integrations | Full-Stack Engineering</strong>
+</p>
+
+<p align="center">
+  <strong><a href="https://www.aruvix.com/">Creator of Aruvix</a></strong> · <strong><a href="https://amrishkhan.dev">Amrishkhan.dev</a></strong>
 </p>
 
 <p align="center">
@@ -19,6 +22,9 @@
     <img src="https://img.shields.io/badge/Creator_of-Aruvix-16A34A?style=for-the-badge&logo=rocket&logoColor=white" alt="Creator of Aruvix" />
   </a>
 </p>
+
+
+
 
 <div align="center">
   <sub>Engineering systems for product teams, developer workflows, APIs, and reliable releases.</sub>
