@@ -149,21 +149,63 @@ These are ongoing projects, not finished releases.
 
 ## 🧰 Technology stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nextjs,angular,vue,nodejs,nestjs,express,spring,postgres,mongodb,mysql,docker,aws,git,github,githubactions,nginx&perline=10" alt="Technology stack icons: TypeScript, JavaScript, Java, React, Next.js, Angular, Vue, Node.js, NestJS, Express, Spring, PostgreSQL, MongoDB, MySQL, Docker, AWS, Git, GitHub, GitHub Actions and Nginx" />
-</div>
+<p align="center"><em>A toolkit shaped by the problems I solve — not a collection of logos.</em></p>
 
-<br>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Frontend & experiences</h3>
+      <p><img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts&perline=5" alt="React, Next.js, Angular, Vue and TypeScript" /></p>
+      <sub>Interfaces that are fast, accessible and maintainable.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Backend & services</h3>
+      <p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,java,spring&perline=5" alt="Node.js, NestJS, Express, Java and Spring" /></p>
+      <sub>APIs, orchestration and distributed systems.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Data & persistence</h3>
+      <p><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=5" alt="PostgreSQL, MongoDB and MySQL" /></p>
+      <sub>Schema design, query performance and dependable data flows.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>Cloud & delivery</h3>
+      <p><img src="https://skillicons.dev/icons?i=aws,azure,docker,githubactions,nginx&perline=5" alt="AWS, Azure, Docker, GitHub Actions and Nginx" /></p>
+      <sub>Automation, deployment, observability and production operations.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>Developer tooling</h3>
+      <p><img src="https://skillicons.dev/icons?i=git,github,vite,rust&perline=5" alt="Git, GitHub, Vite and Rust" /></p>
+      <sub>Local-first tools, desktop apps and better developer workflows.</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>How I design</h3>
+      <p><strong>Microservices · Event-driven · API-first</strong></p>
+      <p><strong>Security · Reliability · Simplicity</strong></p>
+      <sub>The principles behind the stack matter as much as the stack itself.</sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><strong>Explore the full toolkit & engineering practices</strong></summary>
+  <br>
 
 | Discipline | Tools & practices |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, Java, SQL |
+| **Languages** | TypeScript, JavaScript, Java, SQL; Rust for desktop tooling |
 | **Frontend** | React, Next.js, Angular, Vue, Vite, Tailwind CSS, Material UI |
 | **Backend & APIs** | Node.js, NestJS, Express, Spring Boot, REST, GraphQL, WebSockets |
 | **Data** | PostgreSQL, MongoDB, MySQL, Microsoft SQL Server |
 | **Cloud & delivery** | AWS, Azure, Docker, Nginx, GitHub Actions, GitLab CI, Jenkins, Azure DevOps |
 | **Architecture & security** | Microservices, event-driven systems, RBAC, API orchestration, OIDC/SSO, secure integrations |
-| **Developer tooling** | Tauri, Git, OpenAPI, Jest, AI coding agents, local-first workflows |
+| **Developer tooling** | Tauri, Git, OpenAPI, Jest, AI coding-agent workflows, local-first systems |
+
+</details>
 
 ## ✍️ Beyond the code: writing
 
